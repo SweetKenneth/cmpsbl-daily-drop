@@ -28,7 +28,7 @@ Each drop includes:
 
 How the substrate works:
 
-40 primitives. Algorithmic collision. No LLM inside. Fully patentable.
+40 primitives. Algorithmic collision. No LLM inside.
 
 The substrate has 3000+ discoveries. About 100+ score perfect.
 
