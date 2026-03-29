@@ -25,6 +25,17 @@ The substrate has 3000+ discoveries. About 100+ score perfect.
 
 Available in multiple languages — TypeScript, Python, Go, Rust, and more. Drop in and use in your stack. Its even in eilcon hardware code. 
 
+The TypeScript file contains the full Mini-Runtime™.
+
+Core substrate logic is intentionally protected (black-boxed) and not human-readable.
+
+To evaluate real behavior, run the runtime via:
+
+	•	@cmpsbl/cli
+	•	or direct execution
+
+The system is designed to be executed, not reverse-engineered.
+
 Built at cmpsbl.com
 
 Want a specific software type?
