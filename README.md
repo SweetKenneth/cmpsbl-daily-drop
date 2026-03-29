@@ -32,7 +32,7 @@ How the substrate works:
 
 The substrate has 3000+ discoveries. About 100+ score perfect.
 
-Available in multiple languages — TypeScript, Python, Go, Rust, and more. Drop in and use in your stack. Its even in eilcon hardware code. 
+Available in multiple languages — TypeScript, Python, Go, Rust, and more. Drop in and use in your stack. Its even in silicon hardware code. 
 
 The TypeScript file contains the full Mini-Runtime™.
 
