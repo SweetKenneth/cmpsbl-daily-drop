@@ -41,6 +41,7 @@ Core substrate logic is intentionally protected (black-boxed) and not human-read
 To evaluate real behavior, run the runtime via:
 
 	•	@cmpsbl/cli
+	
 	•	or direct execution
 
 The system is designed to be executed, not reverse-engineered.
