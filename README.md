@@ -30,3 +30,11 @@ Built at cmpsbl.com
 Want a specific software type?
 
 Comment on the latest Hacker News post. I’ll pull the closest match from the Memory Stream.
+
+Drop List:
+
+Drop 1 — Neural Arbiter (CJPI 100, $3M, Governance)
+
+Drop 2 — Constitutional AI Guardian (CJPI 100, $3M, Governance)
+
+Drop 3 — Cognitive Firewall (CJPI 99.8, $2.4M, Security)
