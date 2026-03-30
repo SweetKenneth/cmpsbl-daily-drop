@@ -52,6 +52,8 @@ Want a specific software type?
 
 Comment on the latest Hacker News post. I’ll pull the closest match from the Memory Stream.
 
+
+
 Drop List:
 
 Drop 1 — Neural Arbiter (CJPI 100, $3M, Governance)
@@ -59,3 +61,6 @@ Drop 1 — Neural Arbiter (CJPI 100, $3M, Governance)
 Drop 2 — Constitutional AI Guardian (CJPI 100, $3M, Governance)
 
 Drop 3 — Cognitive Firewall (CJPI 99.8, $2.4M, Security)
+
+Drop 4 - Adapative Rate Limiting Engine (CJPI 99.7, $2.2M, Security)
+
